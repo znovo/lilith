@@ -26,6 +26,22 @@ requisitos.txt → Dependências necessárias para rodar o projeto
 
 As demais pastas e arquivos representam apenas o esqueleto da futura modularização e ainda estão em desenvolvimento.
 
+# 🛠 Atualizações Futuras
+
+Planejadas para as próximas versões da Lilith:
+
+Modularização completa do código
+
+Suporte a TTS (Text-to-Speech)
+
+Versão mobile (planejada para o futuro)
+
+GUI transparente para overlay
+
+Integração com jogos leves (RimWorld, Stardew Valley, Among Us, etc.)
+
+Modo “agente” para executar ações no PC
+
 # ⚙️ Instalação
 
 Clone o repositório:
