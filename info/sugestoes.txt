@@ -1,0 +1,10 @@
+sugestoes de melhorias para a lilith em versoes futuras
+*adicionar integraçoes para jogos leves
+como hollow knight, rimworld, among us, stardew valley, etc
+*adicionar um sistema tts
+um sistema tts para melhorar a interaçao estou pensando no eleven labs
+*transformar a lilith em uma arquitetura bdi
+*rodar a lilith quase 100% local
+quero rodar a lilith quase 100% local deixando apenas a voz em nuvem
+*adicionar reconhecimento de voz
+*adicionar reconhecimento de objetos/pessoas na imagem

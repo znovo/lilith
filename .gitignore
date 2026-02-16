@@ -1,0 +1,7 @@
+
+.env
+__pycache__/
+memoria_lilith.json
+lilith_vision.png
+*.pyc
+tempCodeRunnerFile.py
