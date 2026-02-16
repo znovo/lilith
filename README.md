@@ -1,4 +1,4 @@
-Lilith
+# Lilith
 
 Lilith é um sistema experimental de IA com foco em:
 
@@ -14,7 +14,7 @@ Lilith é um sistema experimental de IA com foco em:
 
 O projeto está sendo desenvolvido em Python e evolui em direção a uma arquitetura de agente inteligente mais estruturada.
 
-🚧 Status do Projeto
+# 🚧 Status do Projeto
 
 Atualmente, o projeto está em fase experimental e de estruturação.
 
@@ -26,7 +26,7 @@ requisitos.txt → Dependências necessárias para rodar o projeto
 
 As demais pastas e arquivos representam apenas o esqueleto da futura modularização e ainda estão em desenvolvimento.
 
-⚙️ Instalação
+# ⚙️ Instalação
 
 Clone o repositório:
 
@@ -43,7 +43,7 @@ Execute:
 
 python main.py
 
-🎯 Objetivo
+# 🎯 Objetivo
 
 A Lilith busca evoluir para um agente de IA com:
 
