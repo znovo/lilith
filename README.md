@@ -30,7 +30,7 @@ As demais pastas e arquivos representam apenas o esqueleto da futura modulariza�
 
 Planejadas para as próximas versões da Lilith:
 
-Modularização completa do código
+suporte para plugins
 
 Suporte a TTS (Text-to-Speech)
 
