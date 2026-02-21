@@ -15,24 +15,26 @@ Lilith é um sistema experimental de IA com foco em:
 O projeto está sendo desenvolvido em Python e evolui em direção a uma arquitetura de agente inteligente mais estruturada.
 
 # 🚧 Status do Projeto
-
+-/
 Atualmente, o projeto está em fase experimental e de estruturação.
 
-Por enquanto, os arquivos realmente importantes são:
+Por enquanto, os arquivos/pastas realmente importantes são:
 
-main.py → Arquivo principal de execução
-
-requisitos.txt → Dependências necessárias para rodar o projeto
-
-As demais pastas e arquivos representam apenas o esqueleto da futura modularização e ainda estão em desenvolvimento.
+ main.py
+config.py
+todos os arquivos na pasta core e utils
 
 # 🛠 Atualizações Futuras
 
 Planejadas para as próximas versões da Lilith:
 
-suporte para plugins
+Suporte Para Plugins
 
 Suporte a TTS (Text-to-Speech)
+
+Reconhecimento De Voz (Asr)
+
+App Para Configuração 
 
 Versão mobile (planejada para o futuro)
 
@@ -58,15 +60,3 @@ pip install -r requisitos.txt
 Execute:
 
 python main.py
-
-# 🎯 Objetivo
-
-A Lilith busca evoluir para um agente de IA com:
-
-Persistência de memória
-
-Processamento emocional
-
-Percepção multimodal
-
-Tomada de decisão baseada em intenção
