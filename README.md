@@ -32,9 +32,11 @@ Suporte Para Plugins
 
 Suporte a TTS (Text-to-Speech)
 
-Reconhecimento De Voz (Asr)
+Reconhecimento De Voz
 
-App Para Configuração 
+bot no Discord capaz de fazer chamadas, mandar mensagens, etc
+
+App Para Configuração
 
 Versão mobile (planejada para o futuro)
 
