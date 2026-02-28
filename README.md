@@ -48,17 +48,5 @@ Modo “agente” para executar ações no PC
 
 # ⚙️ Instalação
 
-Clone o repositório:
-
-git clone https://github.com/znovo/lilith.git
-cd lilith
-
-
-Instale as dependências:
-
-pip install -r requisitos.txt
-
-
-Execute:
 
 python main.py
