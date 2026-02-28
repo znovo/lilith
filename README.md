@@ -48,5 +48,4 @@ Modo “agente” para executar ações no PC
 
 # ⚙️ Instalação
 
-
-python main.py
+https://github.com/znovo/lilith/wiki/instala%C3%A7ao-e-requisitos#-instala%C3%A7%C3%A3o
